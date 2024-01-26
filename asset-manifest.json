@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/demmo/static/css/main.ccf31550.css",
-    "main.js": "/demmo/static/js/main.c8e085f0.js",
-    "index.html": "/demmo/index.html",
-    "main.ccf31550.css.map": "/demmo/static/css/main.ccf31550.css.map",
-    "main.c8e085f0.js.map": "/demmo/static/js/main.c8e085f0.js.map"
+    "main.css": "/Demmo/static/css/main.ccf31550.css",
+    "main.js": "/Demmo/static/js/main.c8e085f0.js",
+    "index.html": "/Demmo/index.html",
+    "main.ccf31550.css.map": "/Demmo/static/css/main.ccf31550.css.map",
+    "main.c8e085f0.js.map": "/Demmo/static/js/main.c8e085f0.js.map"
   },
   "entrypoints": [
     "static/css/main.ccf31550.css",

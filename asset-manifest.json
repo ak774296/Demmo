@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demmo/static/css/main.ccf31550.css",
+    "main.js": "/demmo/static/js/main.c8e085f0.js",
+    "index.html": "/demmo/index.html",
+    "main.ccf31550.css.map": "/demmo/static/css/main.ccf31550.css.map",
+    "main.c8e085f0.js.map": "/demmo/static/js/main.c8e085f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf31550.css",
+    "static/js/main.c8e085f0.js"
+  ]
+}
